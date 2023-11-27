@@ -1,3 +1,3 @@
-Hello! My name is Leo Hansson Åkerberg.
+Hello! My name is Leo.
 
 Welcome to my Github.
